@@ -5,3 +5,4 @@ Git tracks changes of files.
 
 After link up.
 Creating a new branch is quick and simple.
+Add up.
